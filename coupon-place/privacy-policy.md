@@ -77,4 +77,4 @@ This application (hereinafter referred to as the "App") values user privacy and 
 
 ---
 
-## **시행일자(Effective Date): 2025년 10월 16일**
+## **시행일자(Effective Date): 2025.10.16**
