@@ -6,8 +6,8 @@ Welcome to the official page of **Unione Apps** — a collection of mobile apps 
 
 ## 📱 Apps
 - **CouponPlace** — 쿠폰 관리 및 만료 알림 앱
-  - [Privacy Policy](https://hyperbora.github.io/coupon-place/privacy-policy)
-  - [Support Page](https://hyperbora.github.io/coupon-place/support)
+  - [Privacy Policy](https://hyperbora.github.io/unione/coupon-place/privacy-policy)
+  - [Support Page](https://hyperbora.github.io/unione/coupon-place/support)
 
 ---
 
