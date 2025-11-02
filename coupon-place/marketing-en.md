@@ -19,7 +19,7 @@ CouponPlace is a smart coupon manager app that helps you keep all your coupons o
 ---
 
 ## Download Link
-- App Store: [CouponPlace](#)
+- App Store: [CouponPlace](https://apps.apple.com/app/couponplace/id6754165828)
 
 ---
 
