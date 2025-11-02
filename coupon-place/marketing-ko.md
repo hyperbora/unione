@@ -17,7 +17,7 @@
 ---
 
 ## 다운로드 링크
-- App Store: [CouponPlace](#)
+- App Store: [CouponPlace](https://apps.apple.com/kr/app/couponplace/id6754165828)
 
 ---
 
